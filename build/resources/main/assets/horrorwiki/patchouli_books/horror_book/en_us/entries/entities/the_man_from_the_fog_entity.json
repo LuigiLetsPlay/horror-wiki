@@ -1,0 +1,27 @@
+{
+  "name": "The Man From The Fog",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/the_man_from_the_fog_entity.png",
+  "flag": "horrorwiki_the_man_from_the_fog",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The Man From The Fog feels direct and threatening. Once it notices the player, the night feels unsafe.$(br2)$(l)Impression$()$(br2)It is a strong hunter that feels simple, heavy, and dangerous."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/the_man_from_the_fog_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Pressure$()$(br2)Its horror comes from being chased by something that belongs in darkness.$(br2)$(l)Fear Style$()$(br2)It feels forceful, clear, and hostile the moment it is near."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\Luigi\.gradle\jdks\eclipse_adoptium-17-amd64-windows\jdk-17.0.18+8\bin\java.exe
+Arguments: '--inJar, C:\Users\Luigi\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.5.2\forge-1.19.2-43.5.2-injected.jar, --outJar, C:\Users\Luigi\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.5.2_mapped_official_1.19.2\forge-1.19.2-43.5.2_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, C:\Users\Luigi\Documents\Sellauth\Horror Wiki\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\Luigi\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.14\accesstransformers-8.2.14-fatjar.jar
+Working directory: C:\Users\Luigi\Documents\Sellauth\Horror Wiki\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

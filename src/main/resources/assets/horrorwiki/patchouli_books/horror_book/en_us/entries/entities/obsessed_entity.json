@@ -1,0 +1,27 @@
+{
+  "name": "Obsessed Entity",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/obsessed_entity_icon.png",
+  "flag": "horrorwiki_obsessed",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The Obsessed feels personal. It does not just attack. It watches, follows, and makes the player feel noticed.$(br2)$(l)Impression$()$(br2)Even when it is quiet, it still feels dangerous. Silence around it never feels safe."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/obsessed_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Watching$()$(br2)It creates fear by staying near and letting the player notice it.$(br2)$(l)Escalation$()$(br2)As things get worse, it becomes more aggressive and more monstrous."
+    }
+  ]
+}

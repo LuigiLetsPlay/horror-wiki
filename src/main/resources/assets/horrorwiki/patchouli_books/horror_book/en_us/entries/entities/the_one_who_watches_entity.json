@@ -1,0 +1,27 @@
+{
+  "name": "The One Who Watches",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/the_one_who_watches.png",
+  "flag": "horrorwiki_the_one_who_watches",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The One Who Watches is a psychological stalker that wants the player to feel observed, hunted, and unsafe.$(br2)$(l)Impression$()$(br2)It does not always need to attack right away. A lot of its horror comes from forcing the player to stay alert."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/the_one_who_watches_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)It stalks, pressures, and makes the player second-guess what they see.$(br2)$(l)Fear Style$()$(br2)Its strength is making distance and darkness feel unsafe for a long time."
+    }
+  ]
+}

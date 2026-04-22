@@ -1,0 +1,27 @@
+{
+  "name": "The Midnight Lurker",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/midnight_lurker.png",
+  "flag": "horrorwiki_midnight_lurker",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The Midnight Lurker is built around a classic night threat: something that belongs in darkness and feels wrong when seen too clearly.$(br2)$(l)Impression$()$(br2)It makes darkness feel occupied, like the night is hiding a hunter."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/midnight_lurker_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)Its horror comes from how naturally it fits into darkness.$(br2)$(l)Fear Style$()$(br2)The player feels like they should not stay outside for too long once it appears."
+    }
+  ]
+}

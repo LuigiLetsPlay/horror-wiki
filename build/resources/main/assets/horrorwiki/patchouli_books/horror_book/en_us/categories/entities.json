@@ -1,0 +1,7 @@
+{
+  "name": "Entities",
+  "description": "Entity dossiers for compatible horror mods.",
+  "icon": "horrorwiki:textures/gui/wiki/buttons/entity_button_icon.png",
+  "sortnum": 1
+}
+

@@ -1,0 +1,27 @@
+{
+  "name": "Assimilated Dweller",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/assimilated_dweller.png",
+  "flag": "horrorwiki_assimilated_dweller",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The Assimilated Dweller is a parasite-twisted version of the classic cave dweller idea.$(br2)$(l)Impression$()$(br2)It feels infected, wrong, and more hostile than a normal stalker."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/assimilated_dweller_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)It hunts like a creature that has lost itself to something worse.$(br2)$(l)Fear Style$()$(br2)Its horror comes from parasite imagery and the feeling of being overwhelmed."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Better Cave Dweller",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/better_cave_dweller.png",
+  "flag": "horrorwiki_better_cave_dweller",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)Better Cave Dweller is a scarier rework of cave-based horror. It focuses on making the cave threat feel stronger, louder, and more intense.$(br2)$(l)Impression$()$(br2)It feels like a more polished and more dangerous version of the usual cave stalker idea."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/better_cave_dweller_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)It pushes cave tension harder than the simpler versions of the idea.$(br2)$(l)Fear Style$()$(br2)Its horror comes from making every underground sound and movement feel more threatening."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Compatible Mods",
+  "category": "horrorwiki:credits",
+  "icon": "horrorwiki:textures/gui/wiki/buttons/credits_icon.png",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Credits$()$(br2)These are the current officially listed compatible horror mods in this book edition. Each project belongs to its original creator on CurseForge."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Obsessed",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/obsessed",
+      "link_text": "Open CurseForge",
+      "text": "Psychological stalking horror centered on a fixation-driven entity."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "From The Fog",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/from-the-fog",
+      "link_text": "Open CurseForge",
+      "text": "Herobrine-style paranoia and distant sightings."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The Man From The Fog",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-man-from-the-fog",
+      "link_text": "Open CurseForge",
+      "text": "Direct pursuit horror with a strong silhouette-based threat."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The Knocker",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-knocker",
+      "link_text": "Open CurseForge",
+      "text": "Sound-driven tension and close-range unease."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Apollyon",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/apollyon",
+      "link_text": "Open CurseForge",
+      "text": "Heavier ritualistic horror with a darker apocalyptic mood."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Cave Dweller",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cave-dweller",
+      "link_text": "Open CurseForge",
+      "text": "Stalking cave horror built around underground tension."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The Midnight Lurker",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-midnight-lurker",
+      "link_text": "Open CurseForge",
+      "text": "A night-based horror entity that makes darkness feel occupied."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The Nightmare Stalker",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-nightmare-stalker",
+      "link_text": "Open CurseForge",
+      "text": "A harsher, chase-focused horror creature."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Siren Head: Reborn",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/siren-head-reborn",
+      "link_text": "Open CurseForge",
+      "text": "Large-scale Trevor Henderson style creature horror."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The Anomaly",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-anomaly",
+      "link_text": "Open CurseForge",
+      "text": "A stalker that becomes more aggressive over time."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Better Cave Dweller",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-cave-dweller",
+      "link_text": "Open CurseForge",
+      "text": "A scarier and more intense cave dweller overhaul."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "SCP-087, The Stairwell",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-stairwell",
+      "link_text": "Open CurseForge",
+      "text": "An endless dark stairwell with creatures waiting below."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Smoreh's ASSIMILATED Dweller",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-assimilated-dweller-v2",
+      "link_text": "Open CurseForge",
+      "text": "A parasite-twisted cave dweller variant."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Who's There?: Ghost Players",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/whos-there-ghost-players",
+      "link_text": "Open CurseForge",
+      "text": "Ghostly fake players and cave paranoia."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "The One Who Watches",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-one-who-watches",
+      "link_text": "Open CurseForge",
+      "text": "A psychological stalker that pressures the player over time."
+    },
+    {
+      "type": "patchouli:link",
+      "title": "Mickey Mouse Dweller",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mickey-mouse-dweller",
+      "link_text": "Open CurseForge",
+      "text": "A fast and violent dweller with a twisted cartoon look."
+    }
+  ]
+}

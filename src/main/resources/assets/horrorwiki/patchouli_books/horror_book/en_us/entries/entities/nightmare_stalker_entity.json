@@ -1,0 +1,27 @@
+{
+  "name": "The Nightmare Stalker",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/nightmare_stalker.png",
+  "flag": "horrorwiki_nightmare_stalker",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)The Nightmare Stalker feels like a more broken and cruel version of a cave-hunting creature.$(br2)$(l)Impression$()$(br2)It gives off the feeling of something damaged, fast, and built to chase."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/nightmare_stalker_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)It feels aggressive and unstable, which makes each encounter more urgent.$(br2)$(l)Fear Style$()$(br2)The horror comes from raw pursuit and the sense that it will not stop cleanly."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "From The Fog Entity",
+  "category": "horrorwiki:entities",
+  "icon": "horrorwiki:textures/gui/wiki/icons/from_the_fog_entity.png",
+  "flag": "horrorwiki_from_the_fog",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Identity$()$(br2)This entity is scary because it is not always clear if you really saw it. It turns empty places and far-away movement into something suspicious.$(br2)$(l)Impression$()$(br2)Its fear comes from doubt. The next sighting could be closer."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Visual Profile",
+      "images": [
+        "horrorwiki:textures/gui/wiki/images/from_the_fog_image.png"
+      ],
+      "border": true,
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Behavior",
+      "text": "$(l)Presence$()$(br2)It does not need to attack all the time to stay frightening.$(br2)$(l)Fear Style$()$(br2)A short appearance is enough to make the whole area feel wrong."
+    }
+  ]
+}

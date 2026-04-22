@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "horrorwiki:horror_book": {
+      "viewedEntries": [
+        "horrorwiki:guide/overview",
+        "horrorwiki:entities/test"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
