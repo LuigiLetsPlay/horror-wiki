@@ -52,6 +52,8 @@ This mod requires:
 
 ---
 
+## You do not have Permission to Reupload/Remix this Mod. But you are free to use this Mod in your Modpack!
+
 ## 🛠️ Modpack Support
 
 Horror Wiki is designed to work alongside other horror mods, adding lore and explanations for entities from different sources.
