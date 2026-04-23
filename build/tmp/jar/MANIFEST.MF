@@ -5,5 +5,5 @@ Specification-Version: 1
 Implementation-Title: horror-wiki
 Implementation-Version: 1.0
 Implementation-Vendor: LuigiLP
-Implementation-Timestamp: 2026-04-21T23:21:34+0200
+Implementation-Timestamp: 2026-04-23T17:35:58+0200
 
